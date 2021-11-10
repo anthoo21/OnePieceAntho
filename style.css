@@ -1,0 +1,23 @@
+h1 {
+	text-align:center;
+}
+td {
+	border: 2px solid white;
+	margin-left:auto;
+	margin-right:auto;
+}
+table {
+	margin-left:auto;
+	margin-right:auto;
+}
+h3 {
+	text-align:center;
+}
+.trailer {
+    width: 30%; /*or whatever % you prefer*/
+    margin: 0 auto;
+    display: block;
+}
+.sommaire {
+	margin-left: 35%;
+}
